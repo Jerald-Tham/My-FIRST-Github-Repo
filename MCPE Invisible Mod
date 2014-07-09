@@ -1,5 +1,5 @@
 /*MCPE Invisible MOD*/
-//Turn Invisible with a Single Touch on the Bottom-Right of your screen.
+//Turn Invisible with a Single Touch on the Bottom-Right of your screen. Enjoy! ~Jerald
 
 var GUI;
 var checked = false;
